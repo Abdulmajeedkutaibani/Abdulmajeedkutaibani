@@ -17,4 +17,4 @@
 - 🌱 I’m currently learning Next.js & TypeScript.
 - 👯 I’m looking to collaborate on big web application projects.
 - 💬 Ask me about, basically anything! :)
-- 📫 How to reach me: +90 552 726 4403 / abodymeo@gmail.com
+- 📫 How to reach me: +90 552 726 4403 / realabdulmajeedk@gmail.com
