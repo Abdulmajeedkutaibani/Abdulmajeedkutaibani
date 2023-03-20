@@ -1,4 +1,4 @@
-# Yo, IT'S ABDULMAJEED.K 👋 😁
+# Hi, IT'S ABDULMAJEED.K 👋 😁
 
 <p align="center">
   <h2>My stats...</h2>
