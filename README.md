@@ -1,10 +1,7 @@
 # Hi, IT'S ABDULMAJEED.K 👋 😁
 
 <p align="center">
-  <h2>My stats...</h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulmajeedkutaibani&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulmajeedkutaibani"              alt="cengizcmataraci" /></a> </p>
-
+  I used to study medicine at the university and I finished 4 years out of 6, but in 2020 the pandemic happened and everything was closed including my university. So I decided to learn coding and little by little, I fell in love with it. Now I work as a frontend developer in Eindhoven, Netherlands.
 </p>
 
 <p align="center">
@@ -13,7 +10,7 @@
 </p>
 
 # Some stuff about me...
-- 🔭 I’m currently working as a Frontend Developer.
-- 🌱 I’m learning TypeScript.
-- 💬 Ask me about, basically anything! :)
-- 📫 How to reach me: realabdulmajeedk@gmail.com
+- 👨🏻‍💻 I’m currently working as a Frontend Developer.
+- 🌱 I’m learning React Native...
+- 💬 Have a question? let's chat! :)
+- 📫 How to reach me: abodymeo@gmail.com
