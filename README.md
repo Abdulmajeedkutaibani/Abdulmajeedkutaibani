@@ -1,6 +1,6 @@
 # Hi, IT'S ABDULMAJEED.K 👋 😁
 
-<p align="center">
+<p align="left">
   I used to study medicine at the university and I finished 4 years out of 6, but in 2020 the pandemic happened and everything was closed including my university. So I decided to learn coding and little by little, I fell in love with it. Now I work as a frontend developer in Eindhoven, Netherlands.
 </p>
 
